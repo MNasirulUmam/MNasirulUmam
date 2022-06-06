@@ -32,10 +32,19 @@
 [![Facebook Badge](https://img.shields.io/badge/-M.Nasirul_Umam-blue?style=plastic&logo=Facebook&logoColor=white&link=https://facebook.com/nasirol.intelejenss)](https://www.facebook.com/nasirol.intelejenss/)
 ---
 
-
+## GitHub Analytics
 <p align="center">
 <a href="https://github.com/MNasirulUmam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MNasirulUmam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNasirulUmam&theme=algolia"/>
 </a>
 </p>
+<br><br>
+## Achievement
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MNasirulUmam&theme=juicyfresh&no-bg=false)](https://github.com/MNasirulUmam)
+
+<br/><br/>
+## Contributions
+
+[![contributions](https://activity-graph.herokuapp.com/graph?username=MNasirulUmam&theme=xcode&area=true)](https://github.com/MNasirulUmam)
