@@ -27,8 +27,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-M.Nasirul_Umam-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-nasirul-umam-9735b1214/)](https://www.linkedin.com/in/m-nasirul-umam-9735b1214/)
 [![Instagram Badge](https://img.shields.io/badge/-mnasirulumam97-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/mnasirulumam97/)](https://instagram.com/mnasirulumam97)
 [![Twitter Badge](https://img.shields.io/badge/-mnasirulumam1-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/mnasirulumam1/)](https://twitter.com/mnasirulumam1/)
-[![Gmail Badge](https://img.shields.io/badge/mnasirulumam73@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:mnasirulumam73@gmail.com)](mnasirulumam73@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/adityaoberai1@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:adityaoberai1@gmail.com)](mailto:adityaoberai1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/mnasirulumam73@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:mnasirulumam73@gmail.com)](mailto:mnasirulumam73.com)
 [![Youtube Badge](https://img.shields.io/badge/-M.Nasirul_Umam-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCVEOLv8cbsW-nf5HBXXvMgw)](https://www.youtube.com/channel/UCVEOLv8cbsW-nf5HBXXvMgw)
 [![Facebook Badge](https://img.shields.io/badge/-M.Nasirul_Umam-blue?style=plastic&logo=Facebook&logoColor=white&link=https://facebook.com/nasirol.intelejenss)](https://www.facebook.com/nasirol.intelejenss/)
 ---
