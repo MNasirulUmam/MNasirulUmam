@@ -34,8 +34,8 @@
 
 
 <p align="center">
-<a href="https://github.com/adityaoberai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaoberai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaoberai&theme=algolia"/>
+<a href="https://github.com/MNasirulUmam">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MNasirulUmam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNasirulUmam&theme=algolia"/>
 </a>
 </p>
