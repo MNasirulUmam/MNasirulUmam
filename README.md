@@ -24,12 +24,12 @@
 
 ### Want To Contact Me? 📱
 
-[![Linkedin Badge](https://img.shields.io/badge/-m-nasirul-umam-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-nasirul-umam-9735b1214/)](https://www.linkedin.com/in/m-nasirul-umam-9735b1214/)
+[![Linkedin Badge](https://img.shields.io/badge/-M.Nasirul_Umam-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-nasirul-umam-9735b1214/)](https://www.linkedin.com/in/m-nasirul-umam-9735b1214/)
 [![Instagram Badge](https://img.shields.io/badge/-mnasirulumam97-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/mnasirulumam97/)](https://instagram.com/mnasirulumam97)
 [![Twitter Badge](https://img.shields.io/badge/-adityaoberai1-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/adityaoberai1/)](https://twitter.com/adityaoberai1/)
 [![Gmail Badge](https://img.shields.io/badge/adityaoberai1@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:adityaoberai1@gmail.com)](mailto:adityaoberai1@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Aditya_Oberai-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCTbP-EnvU0l76d2yIoiZruQ)](https://www.youtube.com/channel/UCTbP-EnvU0l76d2yIoiZruQ)
-[![Facebook Badge](https://img.shields.io/badge/-m-nasirul-umam-blue?style=plastic&logo=Facebook&logoColor=white&link=https://facebook.com/nasirol.intelejenss)](https://www.facebook.com/nasirol.intelejenss/)
+[![Facebook Badge](https://img.shields.io/badge/-M.Nasirul_Umam-blue?style=plastic&logo=Facebook&logoColor=white&link=https://facebook.com/nasirol.intelejenss)](https://www.facebook.com/nasirol.intelejenss/)
 ---
 
 
