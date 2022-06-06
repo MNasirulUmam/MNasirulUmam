@@ -1,6 +1,3 @@
-<p align="center">
-<!--     <img src="Assets/Aditya.png" width="180"> -->
-</p>
 <h2 align="center"> Hey, I am M.Nasirul Umam (he/him)👋 </h2>
 <h3 align="center"> Web Develope🥑and Technology Enthusiast👨‍💻 </h3>
 
