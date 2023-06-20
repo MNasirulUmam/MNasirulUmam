@@ -29,4 +29,3 @@
 <br/><br/>
 ## Contributions
 
-[![contributions](https://activity-graph.herokuapp.com/graph?username=MNasirulUmam&theme=xcode&area=true)](https://github.com/MNasirulUmam)
